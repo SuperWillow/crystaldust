@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 10: expected statement.
+    {image=backdrop.jpg}
+                        ^
+
+Ren'Py Version: Ren'Py 8.0.2.22081402
+Wed Aug 31 17:35:19 2022
